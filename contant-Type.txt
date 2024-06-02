@@ -1,0 +1,14 @@
+The Content Type in HTTP response:
+
+The Content Type specifies the type of data being sent to the receiver in order to exchange data properly. 
+This ensures that the data is processed correctly.
+
+For example content types include plain text, html text, and image. 
+The following shows the line codes for the different types of content.
+
+The formatis : 
+Content-Type: text/html\r\n
+Content-Type: text/plain\r\n
+Content-Type: image/jpg\r\n
+Content-Type: image/png\r\n
+
